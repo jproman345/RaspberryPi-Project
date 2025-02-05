@@ -1,1 +1,1 @@
-Final Project for CS370 Operating Systems. In this project, we were tasked with using a desktop and two Raspberrypis to solve a problem. We decided to use our collective interest for networking to creat an at home messaging system between the two Pis using a central server.
+Final Project for CS370 Operating Systems. In this project, we were tasked with using a desktop and two Raspberrypis to solve a problem. We decided to use our collective interest for networking to create an at home messaging system between the two Pis using a central server.
